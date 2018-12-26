@@ -1,2 +1,3 @@
-# zx
-去玩儿
+#test create repository
+import math 
+print(math.log(1000,10))
